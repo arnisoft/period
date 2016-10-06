@@ -1,4 +1,4 @@
-require 'test_helper'
+require 'minitest/unit'
 
 class TestPeriod < MiniTest::Unit::TestCase
 
